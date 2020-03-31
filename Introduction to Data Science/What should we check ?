@@ -1,0 +1,11 @@
+##Check all of the things you should check about your dataset when getting started.
+
+1.Check each column is a variable, and each row is an individual.
+
+2.Look at the number of rows and columns in the dataset.
+
+3.Check if there are missing values in any of the rows or columns.
+
+4.Check if any columns are of different data types than you would expect (ex: numbers showing as strings)
+
+5.Build exploratory plots like bar charts, histograms, and scatterplots to better understand the data.
