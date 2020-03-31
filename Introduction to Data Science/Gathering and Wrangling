@@ -1,0 +1,16 @@
+The CRISP-DM Process (Cross Industry Process for Data Mining)
+We have now defined the questions we want to answer and had a look through the data available to find the answers, that is, we have looked at the first two steps here:
+
+1. Business Understanding
+
+2. Data Understanding
+
+We can now look at the third step of the process:
+
+3. Prepare Data
+
+Luckily stackoverflow has already collected the data for us. 
+However, we still need to wrangle the data in a way for us to answer our questions.
+The wrangling and cleaning process is said to take 80% of the time of the data analysis process.
+We will see that will hold true through this lesson, 
+as a majority of the remaining parts of this lesson will be around basic data wrangling strategies.
