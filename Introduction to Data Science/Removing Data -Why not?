@@ -1,0 +1,16 @@
+When we are running and with no GPS signal when entering jungle ,dropping is better than imputing.
+
+
+In the last video, we saw cases in which dropping rows or columns associated with missing values would not be a good idea.
+There are other cases in which dropping rows or columns associated with missing values would be okay.
+
+A few instances in which dropping a row might be okay are:
+
+Dropping missing data associated with mechanical failures.
+The missing data is in a column that you are interested in predicting.
+Other cases when you should consider dropping data that are not associated with missing data:
+
+Dropping columns with no variability in the data.
+Dropping data associated with information that you know is not correct.
+In handling removing data, you should think more about 
+why is this missing or why is this data incorrectly input to see if an alternative solution might be used than dropping the values.
