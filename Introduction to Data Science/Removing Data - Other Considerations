@@ -1,0 +1,6 @@
+One common strategy for working with missing data is to understand the proportion of a column that is missing. 
+If a large proportion of a column is missing data, this is a reason to consider dropping it.
+
+There are easy ways using pandas to create dummy variables to track the missing values,
+so you can see if these missing values actually hold information (regardless of the proportion that are missing)
+before choosing to remove a full column.
