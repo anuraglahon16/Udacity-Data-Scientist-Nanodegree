@@ -1,0 +1,12 @@
+The command line code looks something like this:
+
+conda create --name environmentname
+source activate environmentname
+conda install numpy
+
+To use venv and pip, the commands look something like this:
+
+python3 -m venv environmentname
+source environmentname/bin/activate
+pip install numpy
+
