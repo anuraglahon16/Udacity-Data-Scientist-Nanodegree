@@ -1,0 +1,9 @@
+Text Data
+Text data can come in different forms. A text file (.txt), for example, will contain only text.
+As another example, a data set might contain text for one or more variables.
+In the world bank projects data set, the regionname, countryname, theme and sector variables contain text.
+
+Analyzing text is a big topic that is covered in other Udacity courses on Natural Language Processing.
+For the purposes of this lesson on ETL pipelines, pandas is automatically "extracting" text data when reading in a csv, xml or json file.
+
+Text data will be more important in the Transform stage of an ETL pipeline, which comes later in the lesson.
