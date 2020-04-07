@@ -1,0 +1,7 @@
+In the video, I say that a machine learning algorithm won't work with missing values. 
+This is essentially correct; however, there are a couple of situations where this isn't quite true. 
+For example, if you had a categorical variable, you could keep the NULL value as one of the options.
+
+Like if theme_2 could have a value of agriculture, banking, or NULL, you might encode this variable as 0, 1, 2 where the value 2 stands
+in for the NULL value. You could do something similar for one-hot encoding where the theme_2 variable becomes 3 true/false features:
+theme_2_agriculture, theme_2_banking, theme_2_NULL. You could have to make sure that this improves your model performance.
