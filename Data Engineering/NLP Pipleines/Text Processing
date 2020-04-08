@@ -1,0 +1,18 @@
+Why Do We Need to Process Text?
+
+Extracting plain text: Textual data can come from a wide variety of sources: the web, PDFs, word documents, speech recognition systems, book scans, etc. Your goal is to extract plain text that is 
+free of any source specific markup or constructs that are not relevant to your task.
+
+Reducing complexity: Some features of our language like capitalization, punctuation, and common words such 
+as a, of, and the, often help provide structure, but don't add much meaning. Sometimes it's best to remove them
+if that helps reduce the complexity of the procedures you want to apply later.
+
+You'll prepare text data from different sources with the following text processing steps:
+
+Cleaning to remove irrelevant items, such as HTML tags
+Normalizing by converting to all lowercase and removing punctuation
+Splitting text into words or tokens
+Removing words that are too common, also known as stop words
+Identifying different parts of speech and named entities
+Converting words into their dictionary forms, using stemming and lemmatization
+After performing these steps, your text will capture the essence of what was being conveyed in a form that is easier to work with.
