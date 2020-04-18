@@ -1,0 +1,13 @@
+Introduction
+Recommendations are being used to recommend everything from movies to music to friends to new destinations.
+There are three main methods for implementing recommendations that you will become familiar with throughout this lesson:
+
+Knowledge Based Recommendations
+Collaborative Filtering Based Recommendations
+Content Based Recommendations
+After completing this lesson, you will be ready for the upcoming lessons where you will
+
+Learn about more advanced techniques.
+Deploy your recommendations in a web application.
+These three lessons will aim to be extremely practical.
+The lessons will require that you write code to implement a number of different recommendation techniques.
