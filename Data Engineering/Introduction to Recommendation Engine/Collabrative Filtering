@@ -1,0 +1,4 @@
+Collaborative Filtering and Content Based Recommendations
+Collaborative filtering is a method of making recommendations based only on the interactions between users and items.
+
+Alternatively, content based recommendations are when we use information about the users or items to assist in our recommendations.
