@@ -1,0 +1,18 @@
+Making Recommendations
+Finalizing our neighborhood based recommendations, we need to use the ratings from our neighbors to influence the ratings we provide to other users.
+
+There are a few ways to do this, but a simple method would be to:
+
+Remove movies our user has already seen.
+Find ratings of the neighbors that are high.
+Recommend movies to each user where both 1 and 2 above hold.
+Other methods for making recommendations using collaborative filtering are based on weighting of the neighbors' ratings based on the 'closeness' of the neighbors.
+
+You can use each of the following two papers to learn more about this technique:
+
+Domino Data Lab Paper
+Semantic Scholar Paper On Weighted Ratings
+In the next notebook, you will implement the three-step process above to make recommendations 
+for every user in the dataset. For computational reasons, you will notice that iterating this approach through all
+users has been done for you. But you will go through the process of implementing for individual pairs of users,
+which could easily be extended via looping to all users.
