@@ -1,0 +1,6 @@
+Singular Value Decomposition
+In the next part of this lesson, you will first get exposure to Singular Value Decomposition, or SVD. We will soon see why this technique falls short for many recommendation problems. 
+However, understanding traditional SVD approaches to matrix factorization is useful as a start to a number of matrix factorization techniques that are possible in practice.
+
+In order to implement SVD for many recommendation engines, we will need to use a slightly modified approach known as FunkSVD. 
+This approach proved to work incredibly well during the Netflix competition, and therefore, it is one of the most popular recommendation approaches in use today.
