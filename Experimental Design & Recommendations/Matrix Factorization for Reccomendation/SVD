@@ -1,0 +1,5 @@
+Singular Value Decomposition
+Let's do a quick check of understanding. If we let AA be our user-item matrix, we can write the decomposition of that matrix in the following way.
+
+A = U \Sigma V^TA=UΣV 
+T
