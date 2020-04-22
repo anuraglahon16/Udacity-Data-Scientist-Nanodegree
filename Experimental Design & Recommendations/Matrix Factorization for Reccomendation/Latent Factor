@@ -1,0 +1,7 @@
+
+Latent Factors
+When performing SVD, we create a matrix of users by items (or customers by movies in our specific example), with user ratings for each item scattered throughout the matrix. An example is shown in the image below.
+
+
+You can see that this matrix doesn't have any specific information about the users or items. Rather, it just holds the ratings that each user gave to each item. Using SVD on this matrix, we can find latent features related to the movies and customers. 
+This is amazing because the dataset doesn't contain any information about the customers or movies!
