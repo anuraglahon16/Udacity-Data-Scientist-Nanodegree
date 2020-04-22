@@ -1,0 +1,10 @@
+Business Goals of Recommendations
+In general, recommendations are important because they are often central to driving revenue for a company. In the new world of the Internet, you don't always need a friend to personally recommend you an item you never heard of - instead, the recommendations can do this.
+
+There are ultimately 4 goals to keep in mind when performing recommendations:
+
+Relevance
+Novelty
+Serendipity
+Diversity
+Often people only think of the first goal, and it is a good reminder that focusing only on relevance can lead to drops in use, and therefore loss of revenue. We also need to consider the other three goals, so that recommendations can be most effective in driving sales. In this article, Lab41 shows how they worked to quantify these metrics.
