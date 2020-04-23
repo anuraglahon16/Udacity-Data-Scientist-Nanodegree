@@ -1,0 +1,6 @@
+The Cold Start Problem
+The cold start problem is the problem that new users and new items to a platform don't have any ratings.
+Because these users and items don't have any ratings, it is impossible to use collaborative filtering methods to make recommendations.
+
+Therefore, methods you used in the previous lesson like (rank-based and content-based recommenders) are the only way 
+to get started with making recommendations for these individuals.
